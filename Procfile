@@ -1,1 +1,1 @@
-web: gunicorm form_api_test.wsgi
+web: gunicorn form_api_test.wsgi
