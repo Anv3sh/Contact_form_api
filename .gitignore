@@ -5,7 +5,6 @@ db.sqlite3
 contact_list.txt
 migrations/
 media/
-settings.py
 # C extensions
 *.so
 
