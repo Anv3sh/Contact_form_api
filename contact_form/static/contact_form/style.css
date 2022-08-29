@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 20px;
+    color: black;
+    line-height: 1.5;
+    letter-spacing: 3px;
+}
+
+.contact{
+    padding-top: 150px;
+    padding-bottom: 50px
+}
+
+.s-eve {
+    justify-content: space-evenly;
+  }
+
+.section{
+    flex-wrap: wrap;
+    overflow-x: hidden
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.column {
+    flex-direction: column !important;
+}
